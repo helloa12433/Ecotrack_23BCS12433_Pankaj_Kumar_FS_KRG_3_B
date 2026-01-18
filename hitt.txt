@@ -1,0 +1,18 @@
+//fn of ui 
+
+app.get("/hii, (req, res)=>{
+
+})
+
+//strictmode -> undefined 
+//browser -> windows
+//special fn used to control rendering
+
+//compontes of react is pure fn 
+props
+state
+//backend harmony 
+
+
+//Routes
+//BrowserRouter 
